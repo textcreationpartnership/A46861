@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Iesvites plot discovered intended against the Parliament and city of London very lately as was apparently declared by the confession at Tyburne of the two Jesuites that were hang'd drawne and quartered : as also the Jesuites speech at his confession : with the just cause of the Parliaments removing from Westminster to Grocers-Hall the 18 and 19 day of Ianuarie : likewise with an order from the committee that Thames and all other ports should be strongly fortified for feare any conspiracie of the Jesuites should ensue.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46861</idno><idno type="EEBO-CITATION">12442151</idno>
+  <idno type="VID">62111</idno>
+  <idno type="EEBO-PROQUEST">2240957349</idno>
+  
+            <idno type="STC">Wing J723</idno>
+            <idno type="STC">ESTC R19371</idno>
+            <idno type="OCLC">12442151</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 249:E132, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Iesvites plot discovered intended against the Parliament and city of London very lately as was apparently declared by the confession at Tyburne of the two Jesuites that were hang'd drawne and quartered : as also the Jesuites speech at his confession : with the just cause of the Parliaments removing from Westminster to Grocers-Hall the 18 and 19 day of Ianuarie : likewise with an order from the committee that Thames and all other ports should be strongly fortified for feare any conspiracie of the Jesuites should ensue.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Jesuits --  England.</term>
+               <term type="geographic_name">London (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62111:1"/>
+            <pb facs="tcp:62111:1"/>
+            <p>
+               <hi>THE</hi> IESVITES PLOT DISCOVERED Intended against the PARLIAMENT and City of London very lately.</p>
+            <p>As was apparently declared by the Confession at Tyburne of the two Jesuites that were hang'd drawne and quartered.</p>
+            <p>As also the Jesuites speech at his Confession.</p>
+            <p>With the just cause of the Parliaments removing from Westminster to Grocers-Hall the 18. and 19. day of <hi>Ianuarie.</hi>
+            </p>
+            <p>Likewise with an Order from the Committee that <hi>Thames</hi> and all other Ports should be strong<g ref="char:EOLhyphen"/>ly fortified, for feare any conspiracie of the Jesuites should ensue.</p>
+            <p>Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:62111:2"/>
+            <pb n="1" facs="tcp:62111:2"/>
+            <head>The just cause of the Parliaments removing from Westminster to Grocers Hall.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Papists have beene such inve<g ref="char:EOLhyphen"/>terate enemies against this King<g ref="char:EOLhyphen"/>dome, that they have alwayes la<g ref="char:EOLhyphen"/>boured either to subvert the same by their politicke Counsells, or else to bring the State incontinent<g ref="char:EOLhyphen"/>ly to a ruinate destruction. They have with vigi<g ref="char:EOLhyphen"/>lant care, and sedulitie endeavoured to supplant our Religion, which that they might perfect with greater facility, their trecheries and nefa<g ref="char:EOLhyphen"/>rious conspiracies have beene solely intended a<g ref="char:EOLhyphen"/>gainst the Parliament; Knowing that either on their security, the security of the Kingdome, or on their ruin, the ruin of the whole Nation was involved, therfore they obscurely detected their malice against it, that they might more privately compose their Stratagem. Once they had al<g ref="char:EOLhyphen"/>most
+<pb n="2" facs="tcp:62111:3"/> reduced their Plots to mature perfection, when they had got their Arch-conduct <hi>Lunsford</hi> into the Tower where he had got full command of Westminster: but the Parliament being more judicious conceived their designes, and immedi<g ref="char:EOLhyphen"/>atly displaced him.</p>
+            <p>Then they were furiously invective against those Pillars of the Kingdome, and then Colonell <hi>Luns<g ref="char:EOLhyphen"/>ford</hi> with the reciprocall conjunction of the Lord Digby did collect a number of horse, and Am<g ref="char:EOLhyphen"/>munition, and other Armes of Hostility pre<g ref="char:EOLhyphen"/>rended all against the Parliament, and conse<g ref="char:EOLhyphen"/>quently against the City by the auxiliary aid of their adherents. The Parliament did then im<g ref="char:EOLhyphen"/>mediatly, suspecting some conspiracie against them, remove to Guild-Hall, and from thence to Grocers-Hall, where they continued the space of a weeke, but afterwards having a generall mee<g ref="char:EOLhyphen"/>ting at Westminster they returned thither again, where they continued a weeke longer: but since having such just suspition of the trecheries of the Papists, they could not thinke themselves secure there any longer: wherefore they unanimously agreed to sit in Grocers-Hall againe, it being in the heart of the City: so that if by any means an insurrection should arise, the City were more able and strong to defend them. Yet besides this plot of the Papists, there was a conspiracie of the Jesuits intended against the Parliament, striving to bring them to a mutiny, and sedition amongst themselves: which that they might more com<g ref="char:EOLhyphen"/>pleatly perfect, they calumniously suggested ma<g ref="char:EOLhyphen"/>ny
+<pb n="3" facs="tcp:62111:3"/> Popish Lords, that by their joynt consent, and opitulation they might more easily compact, Polish, &amp; deliver their Plot. But they did not onely intend it against Westminster, and the Par<g ref="char:EOLhyphen"/>liament House, but likewise against the City of London, which with their greatest diligence they endeavoured to ruinate. And to circumvent their stratagem with more facility, they instructed themselves to become favourits to many Citi<g ref="char:EOLhyphen"/>zens, and having palpably seduced them, incon<g ref="char:EOLhyphen"/>tinently induced them to become Traitors to the City. Thus they aggregated many confederats unto them, and transplanted great Ammunition into their houses, threatning, or at least inten<g ref="char:EOLhyphen"/>ding the subversion and absolute demolition of the Parliament and City. But the Peers and House of Commons having partly intelligence of their designe, and partly making strict inqui<g ref="char:EOLhyphen"/>sition concerning the same, who were the first fo<g ref="char:EOLhyphen"/>menters, authors, and prime executors of the same, did entertaine great suspition among themselves, and presently grounded their resolu<g ref="char:EOLhyphen"/>tions to sit at Grocers-Hall: where they mig<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t without any danger be in security. And withall they voted, ordered, enacted, and published an exact, and strict Declaration, that the Thames, and all other Ports should be strongly fortified with Ammunition for feare any danger should ensue, and that they might be able to resist, or oppose the same. But I seriously hope, that nei<g ref="char:EOLhyphen"/>ther we, nor they, shall have any occasion of mu<g ref="char:EOLhyphen"/>tiny amongst our selves: for though the prote<g ref="char:EOLhyphen"/>stant
+<pb n="4" facs="tcp:62111:4"/> party be but little, &amp; few in number, &amp; their enemies infinite, yet a little <hi>David</hi> may slay a great <hi>Goliah.</hi> Neither do I make the least dubi<g ref="char:EOLhyphen"/>tation, but that the Popish Recusants and Ro<g ref="char:EOLhyphen"/>mish adherents shall be confounded in all their Plots, treacheries, and conspiracies, for the Par<g ref="char:EOLhyphen"/>liament have such a prying eye, and vigilant care for the prosperous security of the Kingdome, that they can both discover their darke obscure and intricate Plots, and also dissipate their Hell<g ref="char:EOLhyphen"/>guided Counsels. And God grant that they may still and still be defended from their bloudy in<g ref="char:EOLhyphen"/>tents by his Divine preservation, that the truth &amp; sincere purity of his word may be established, that the various discords &amp; tumultuous seditions of the people may be regulated, &amp; that the san<g ref="char:EOLhyphen"/>ctitie of his Gospe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may continue and be propa<g ref="char:EOLhyphen"/>gated for ever.</p>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <pb facs="tcp:62111:4"/>
+               <figure>
+                  <figDesc>royal coat of arms used by Henry VIII and Elizabeth I</figDesc>
+                  <p>HONI SOIT QVIMAL Y PENSE</p>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
